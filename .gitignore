@@ -1,0 +1,50 @@
+node_modules/
+dist/
+cloudflared.exe
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+*.apk
+*.exe
+*.msi
+
+# Configurações e dados locais sensíveis
+pluggy_config.json
+pluggy_items.json
+bot_config.json
+historico-exportado.md
+
+# Chaves privadas e certificados
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.crt
+*.cer
+
+# Credenciais de nuvem / Google / Firebase
+google-services.json
+GoogleService-Info.plist
+*service-account*.json
+*credentials*.json
+
+# Bancos locais, planilhas e backups
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.csv
+*.xlsx
+*.xls
+*.bak
+
+# IDEs e temporários
+.vscode/
+.idea/
+*.swp
+*.tmp

@@ -1,0 +1,85 @@
+{
+  "2026-11": {
+    "key": "2026-11",
+    "mesNome": "Novembro 2026",
+    "status": "Em andamento",
+    "receita": 6500,
+    "totalPrevisto": 3890,
+    "totalPago": 2440,
+    "sobraPrevista": 2610,
+    "contas": [
+      {
+        "id": "demo-1",
+        "nome": "Aluguel Apartamento",
+        "categoria": "Moradia",
+        "valorPrevisto": 1800,
+        "dia": 5,
+        "pago": true,
+        "observacao": "Pagamento via PIX (Demo)"
+      },
+      {
+        "id": "demo-2",
+        "nome": "Energia Elétrica",
+        "categoria": "Utilidades",
+        "valorPrevisto": 220,
+        "dia": 10,
+        "pago": true,
+        "observacao": ""
+      },
+      {
+        "id": "demo-3",
+        "nome": "Internet Fibra",
+        "categoria": "Utilidades",
+        "valorPrevisto": 120,
+        "dia": 12,
+        "pago": true,
+        "observacao": ""
+      },
+      {
+        "id": "demo-4",
+        "nome": "Supermercado Mensal",
+        "categoria": "Alimentação",
+        "valorPrevisto": 950,
+        "dia": 18,
+        "pago": false,
+        "observacao": "Orçamento estimado"
+      },
+      {
+        "id": "demo-5",
+        "nome": "Cartão de Crédito (Demo)",
+        "categoria": "Cartões",
+        "valorPrevisto": 500,
+        "dia": 22,
+        "pago": false,
+        "observacao": "Fatura consolidada"
+      },
+      {
+        "id": "demo-6",
+        "nome": "Academia & Saúde",
+        "categoria": "Saúde",
+        "valorPrevisto": 180,
+        "dia": 8,
+        "pago": true,
+        "observacao": ""
+      },
+      {
+        "id": "demo-7",
+        "nome": "Streaming & Cloud",
+        "categoria": "Assinaturas",
+        "valorPrevisto": 120,
+        "dia": 15,
+        "pago": true,
+        "observacao": ""
+      }
+    ],
+    "categorias": [
+      { "name": "Moradia", "value": 1800, "percent": 46.3, "color": "#6366f1" },
+      { "name": "Alimentação", "value": 950, "percent": 24.4, "color": "#10b981" },
+      { "name": "Cartões", "value": 500, "percent": 12.9, "color": "#f59e0b" },
+      { "name": "Utilidades", "value": 340, "percent": 8.7, "color": "#3b82f6" },
+      { "name": "Saúde", "value": 180, "percent": 4.6, "color": "#ec4899" },
+      { "name": "Assinaturas", "value": 120, "percent": 3.1, "color": "#8b5cf6" }
+    ],
+    "installments": []
+  }
+}
